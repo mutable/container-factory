@@ -6,6 +6,10 @@
 
   Currently, only node.js is supported, marked by the presence of a `package.json`.
 
+## License
+
+  container-factory is distributed under the terms of the ISC license.
+
 ## Installation
 
   Make sure you have [Docker](https://docker.io) set up.
